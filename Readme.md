@@ -49,9 +49,10 @@ Diseñar y desarrollar una **OnePage optimizada**, con secciones claras y atract
 
 ---
 
-## 🛠️ Tecnología Sugerida
-- **Front-End:** HTML5, CSS3, JavaScript (Bootstrap o TailwindCSS, AOS.js, Lightbox.js)
-- **Back-End (opcional para futuras integraciones):** Node.js + Express
-- **Base de Datos (opcional para gestión de productos):** MySQL o MongoDB
-- **Analítica:** Google Analytics o Matomo
-- **Despliegue:** Docker + Nginx
+## 🛠️ Tecnología a usar
+- **Front-End:** Angular
+- **Back-End:** Node.js
+- **Base de Datos:** Azure CosmoDB
+- **API:** OpenAI
+- **Despliegue:** Docker 
+
