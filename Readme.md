@@ -50,10 +50,10 @@ Diseñar y desarrollar una **OnePage optimizada**, con secciones claras y atract
 ---
 
 ## 🛠️ Tecnología a usar
-- **Front-End:** React
+- **Front-End:** React + vite  (Node.Js)
 - **Back-End:** Python
-- **Base de Datos:** Azure CosmoDB
-- **API:** OpenAI
+- **Base de Datos:** Azure Postgres Flexible (AZURE)
 - **Despliegue:** Docker 
+
 
 
